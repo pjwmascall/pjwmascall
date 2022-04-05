@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :trophy: My Github Stats:
+## :chart_with_upwards_trend: My Github Stats:
 
 <!--
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pjwmascall&hide=php&theme=default)
