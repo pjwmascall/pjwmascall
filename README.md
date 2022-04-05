@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 ## :trophy: My Github Stats:
 
 <!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=pjwmascall&count_private=true&show_icons=true&theme=default)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pjwmascall&hide=php&theme=default)
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=pjwmascall&count_private=true&show_icons=true&theme=default)
 -->
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=pjwmascall&theme=default">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=pjwmascall&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pjwmascall&hide=php&theme=default">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pjwmascall&hide=php&theme=default">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjwmascall&hide=php&theme=default" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=pjwmascall&theme=default">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pjwmascall&count_private=true&show_icons=true&theme=default" />
 </a>
 </div>
