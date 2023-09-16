@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjwmascall&hide=php&theme=default" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api?username=pjwmascall&theme=default">
-    <img  align="top" src="https://github-readme-stats.vercel.app/api?username=pjwmascall&count_private=true&show_icons=true&theme=default" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=pjwmascall&count_private=true&show_icons=true&theme=default" />
   </a>
 </div>
 
@@ -32,7 +32,26 @@ Here are some ideas to get you started:
 ## :books: My Certifications:
 
 <div id="certifications" align="center">
-  <a href="https://www.credly.com/badges/8d79ad30-cc06-4493-98dd-1f9d529cd5fd/public_url">
-    <img width="150" height="150" src="https://images.credly.com/size/680x680/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" />
-  </a>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/badges/8d79ad30-cc06-4493-98dd-1f9d529cd5fd/public_url">
+        <img width="20%" height="20%" src="https://images.credly.com/size/680x680/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/8d79ad30-cc06-4493-98dd-1f9d529cd5fd/public_url">
+        September 08, 2023: 97%
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/org/global-information-assurance-certification-giac/badge/giac-security-essentials-certification-gsec">
+        <img width="20%" height="20%" src="https://images.credly.com/size/680x680/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png" />
+      </a>
+    </td>
+    <td>November: In progress</td>
+  </tr>
+</table>
 </div>
