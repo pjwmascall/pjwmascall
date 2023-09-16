@@ -27,3 +27,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pjwmascall&count_private=true&show_icons=true&theme=default" />
 </a>
 </div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8d79ad30-cc06-4493-98dd-1f9d529cd5fd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
