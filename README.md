@@ -55,7 +55,7 @@ Here are some ideas to get you started:
       <a href="https://www.credly.com/badges/b70a01ad-78ea-453b-a80a-6664c0cadb97/public_url">
         November 12th, 2023: 92%
       </a>
-      [Invited to GIAC Advisory Board]
+      <br>[Invited to GIAC Advisory Board]
     </td>
   </tr>
 </table>
