@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 -->
 <div id="stats" align="center">
   <table>
-  <tr>
-    <td style="border-style:none">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pjwmascall&hide=php&theme=default">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjwmascall&hide=php&theme=default" />
-  </a>
-    </td>
-    <td style="border-style:none">
-  <a href="https://github-readme-stats.vercel.app/api?username=pjwmascall&theme=default">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=pjwmascall&count_private=true&show_icons=true&theme=default" />
-  </a>
-    </td>
-  </tr>
+    <tr>
+      <td>
+        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pjwmascall&hide=php&theme=default">
+          <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjwmascall&hide=php&theme=default" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github-readme-stats.vercel.app/api?username=pjwmascall&theme=default">
+          <img align="top" src="https://github-readme-stats.vercel.app/api?username=pjwmascall&count_private=true&show_icons=true&theme=default" />
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -40,31 +40,31 @@ Here are some ideas to get you started:
 ## :books: My Certifications:
 
 <div id="certifications" align="center">
-<table>
-  <tr>
-    <td>
-      <a href="https://www.credly.com/badges/8d79ad30-cc06-4493-98dd-1f9d529cd5fd/public_url">
-        <img width="20%" height="20%" src="https://images.credly.com/size/680x680/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.credly.com/badges/8d79ad30-cc06-4493-98dd-1f9d529cd5fd/public_url">
-        September 08, 2023: 97%
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.credly.com/badges/b70a01ad-78ea-453b-a80a-6664c0cadb97/public_url">
-        <img width="20%" height="20%" src="https://images.credly.com/size/680x680/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.credly.com/badges/b70a01ad-78ea-453b-a80a-6664c0cadb97/public_url">
-        November 12th, 2023: 92%
-      </a>
-      <br>[Invited to GIAC Advisory Board]
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.credly.com/badges/8d79ad30-cc06-4493-98dd-1f9d529cd5fd/public_url">
+          <img width="20%" height="20%" src="https://images.credly.com/size/680x680/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/8d79ad30-cc06-4493-98dd-1f9d529cd5fd/public_url">
+          September 08, 2023: 97%
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.credly.com/badges/b70a01ad-78ea-453b-a80a-6664c0cadb97/public_url">
+          <img width="20%" height="20%" src="https://images.credly.com/size/680x680/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/b70a01ad-78ea-453b-a80a-6664c0cadb97/public_url">
+          November 12th, 2023: 92%
+        </a>
+        <br>[Invited to GIAC Advisory Board]
+      </td>
+    </tr>
+  </table>
 </div>
