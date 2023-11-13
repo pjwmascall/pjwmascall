@@ -47,11 +47,16 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>
-      <a href="https://www.credly.com/org/global-information-assurance-certification-giac/badge/giac-security-essentials-certification-gsec">
+      <a href="https://www.credly.com/badges/b70a01ad-78ea-453b-a80a-6664c0cadb97/public_url">
         <img width="20%" height="20%" src="https://images.credly.com/size/680x680/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png" />
       </a>
     </td>
-    <td>November: In progress</td>
+    <td>
+      <a href="https://www.credly.com/badges/b70a01ad-78ea-453b-a80a-6664c0cadb97/public_url">
+        November 12th, 2023: 92%
+      </a>
+      [Invited to GIAC Advisory Board]
+    </td>
   </tr>
 </table>
 </div>
