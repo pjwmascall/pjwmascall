@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 <div id="stats" align="center">
   <table>
   <tr>
-    <td>
+    <td style="border-style:none">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pjwmascall&hide=php&theme=default">
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjwmascall&hide=php&theme=default" />
   </a>
     </td>
-    <td>
+    <td style="border-style:none">
   <a href="https://github-readme-stats.vercel.app/api?username=pjwmascall&theme=default">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=pjwmascall&count_private=true&show_icons=true&theme=default" />
   </a>
