@@ -20,12 +20,20 @@ Here are some ideas to get you started:
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=pjwmascall&count_private=true&show_icons=true&theme=default)
 -->
 <div id="stats" align="center">
+  <table>
+  <tr>
+    <td>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pjwmascall&hide=php&theme=default">
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjwmascall&hide=php&theme=default" />
   </a>
+    </td>
+    <td>
   <a href="https://github-readme-stats.vercel.app/api?username=pjwmascall&theme=default">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=pjwmascall&count_private=true&show_icons=true&theme=default" />
   </a>
+    </td>
+  </tr>
+  </table>
 </div>
 
 
