@@ -63,7 +63,18 @@ Here are some ideas to get you started:
         <a href="https://www.credly.com/badges/b70a01ad-78ea-453b-a80a-6664c0cadb97/public_url">
           November 12th, 2023: 92%
         </a>
-        <br>[Invited to GIAC Advisory Board]
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <a href="https://www.credly.com/badges/f76c93b1-a6b0-47de-883a-9646a3ca9fbc/public_url">
+          <img width="20%" height="20%" src="https://images.credly.com/size/680x680/images/efd77bd2-ab34-4323-b427-47b3e7136029/image.png" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/f76c93b1-a6b0-47de-883a-9646a3ca9fbc/public_url">
+          Giac Advisory Board Member
+        </a>
       </td>
     </tr>
   </table>
