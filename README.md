@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## :books: My Certifications:
+## :books: Awards and Certifications:
 
 <div id="certifications" align="center">
   <table>
@@ -49,7 +49,8 @@ Here are some ideas to get you started:
       </td>
       <td>
         <a href="https://www.credly.com/badges/8d79ad30-cc06-4493-98dd-1f9d529cd5fd/public_url">
-          September 08, 2023: 97%
+          GFACT: 97%
+          <br>September 08, 2023
         </a>
       </td>
     </tr>
@@ -61,7 +62,8 @@ Here are some ideas to get you started:
       </td>
       <td>
         <a href="https://www.credly.com/badges/b70a01ad-78ea-453b-a80a-6664c0cadb97/public_url">
-          November 12th, 2023: 92%
+          GSEC: 92%
+          <br>November 12th, 2023
         </a>
       </td>
     </tr>
