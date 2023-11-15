@@ -73,7 +73,7 @@ Here are some ideas to get you started:
       </td>
       <td>
         <a href="https://www.credly.com/badges/f76c93b1-a6b0-47de-883a-9646a3ca9fbc/public_url">
-          Giac Advisory Board Member
+          GIAC Advisory Board Member
         </a>
       </td>
     </tr>
