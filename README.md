@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 
 <div id="certifications" align="center">
   <table>
-
     <tr>
       <td>
         <a href="https://www.credly.com/badges/8d79ad30-cc06-4493-98dd-1f9d529cd5fd/public_url">
@@ -55,7 +54,6 @@ Here are some ideas to get you started:
         </a>
       </td>
     </tr>
-
     <tr>
       <td>
         <a href="https://www.credly.com/badges/b70a01ad-78ea-453b-a80a-6664c0cadb97/public_url">
@@ -69,7 +67,6 @@ Here are some ideas to get you started:
         </a>
       </td>
     </tr>
-
     <tr>
       <td>
         <a href="https://www.credly.com/badges/f76c93b1-a6b0-47de-883a-9646a3ca9fbc/public_url">
@@ -82,6 +79,5 @@ Here are some ideas to get you started:
         </a>
       </td>
     </tr>
-
   </table>
 </div>
