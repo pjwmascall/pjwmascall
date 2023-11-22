@@ -79,5 +79,17 @@ Here are some ideas to get you started:
         </a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://www.credly.com/badges/9b4d1112-2320-4d80-aa28-d27f7eba71d7/public_url">
+          <img width="20%" height="20%" src="https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/9b4d1112-2320-4d80-aa28-d27f7eba71d7/public_url">
+          ISC2 Candidate
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
